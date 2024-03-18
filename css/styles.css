@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 body{
     background: url(img/ai-gradution.jpeg);
+=======
+.body{
+    background-image: url("img/graduation.png");
+    background-size: cover;
+>>>>>>> origin/HEAD
 }
